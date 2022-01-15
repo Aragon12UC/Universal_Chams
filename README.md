@@ -9,7 +9,7 @@ Create a 'StreamingAssets' folder inside of: yourGameFolder/yourGameName_Data/St
 Alternatively, use the sample asset bundle provided in this repo.
 
 # Creating your own asset bundles
-I've provided the script I used to create my asset bundle which should work on any version of windows. Official tutorial: https://learn.unity.com/tutorial/introduction-to-asset-bundles#6028be40edbc2a112d4f4fe5
+I've provided the script I used to create my asset bundle which should work on any version of windows. Official tutorial: https://learn.unity.com/tutorial/introduction-to-asset-bundles#
 
 # Video
 https://www.youtube.com/watch?v=k70A299lWis
