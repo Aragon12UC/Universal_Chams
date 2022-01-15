@@ -14,7 +14,6 @@ namespace UniversalChams {
 
             ChamPreviewCamera = cameraHolder.GetOrAddComponent<Camera>();
             ChamPreviewCamera.transform.position = new Vector3(0f, -1000f, 0f);
-            ChamPreviewCamera.enabled = false;
             ChamPreviewCamera.targetTexture = cameraTexture;
 
             // Only render objects on layer 30.
